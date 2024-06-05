@@ -152,7 +152,7 @@ I also found several other methods:
 ### (b) Current Ploblem
 
 The webpage often fails to load, or there is no response after clicking to go to the next page (even if I did these actions manually). The maximum continuous extraction was 8 pages, but it got stuck on the ninth page. I'm not sure if it's the problem about my computer or network. Maybe you can run this code to see if it can extract the data correctly.
-![Example](./image.png)
+![Example](./picture/image.png)
 
 ### (c) PDF Information Extraction VS Web Crawler
 
